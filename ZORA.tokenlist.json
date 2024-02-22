@@ -1,5 +1,5 @@
 {
-    "name": "Zora Network Token List",
+    "name": "ZORB",
     "logoURI": "ipfs://QmUm7zDkuH8jq7mnVVPjgteubXvTQYHQXa7FoivyRLsE8t",
     "keywords": [
       "audited",
@@ -7,19 +7,19 @@
       "special tokens"
     ],
     "tags": {
-      "stablecoin": {
-        "name": "Stablecoin",
-        "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+      "token": {
+        "name": "token",
+        "description": "This is a zorb token. it will be distributed to zorb holders"
       }
     },
     "timestamp": "2024-02-22T00:00:00+00:00",
     "tokens": [
         {
         "chainId": 7777777,
-        "address": "0x4200000000000000000000000000000000000006",
+        "address": "0xF39E0FfA0caE83ee47fa7F82979Cc2b3F5Ae73eb",
         "decimals": 18,
-        "name": "Wrapped Ether",
-        "symbol": "WETH"
+        "name": "ZORB",
+        "symbol": "ZORB"
       }
     ],
     "version": {
